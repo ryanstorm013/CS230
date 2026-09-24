@@ -2,5 +2,5 @@
 test
 
 ![TacoBell](Images/screenshot-2026-03-24_11-53-18.png)
-![RACING SIM](Images/MOZZA.png)
+![RACING SIM](Images/MOZAA.png)
 ![ModernHouse](Images/modernhouse.png) 
